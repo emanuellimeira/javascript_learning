@@ -1,0 +1,22 @@
+{
+  "name": "licao1",
+  "version": "1.0.0",
+  "description": "Testing javascript skills",
+  "main": "02_app.js",
+  "scripts": {
+    "dev": "nodemon 05_node_modules.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuellimeira/javascript_learning.git"
+  },
+  "author": "Emanuel Limeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuellimeira/javascript_learning/issues"
+  },
+  "homepage": "https://github.com/emanuellimeira/javascript_learning#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
